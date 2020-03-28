@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dernières Nouvelles</string>
+    <string name="share">Partager l\'application</string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="share_app">partager via</string>
+    <string name="rate_us">Noter app</string>
+    <string name="great_application">Une excellente application pour parcourir les nouvelles, je vous conseille de la télécharger</string>
+    <string name="theme">Thème sombre</string>
+
+    <string name="done_ok">Ok</string>
+    <string name="never">Jamais</string>
+    <string name="later">Plus tard</string>
+    <string name="text_ratingDialog2">S\'il vous plaît noter nous!</string>
+    <string name="text_ratingDialog1">Avez-vous aimé Dernières Nouvelles</string>
+    <string name="title_ratingDialog">Rate Us</string>
+    <string name="newsApp2">Les grands titres du journaux App</string>
+</resources>

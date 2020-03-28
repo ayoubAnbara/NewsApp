@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الأخبار العاجلة</string>
+    <string name="share">مشاركة التطبيق</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="share_app">شارك عبر</string>
+    <string name="great_application">تطبيق رائع لتصفح الاخبار انصحك بتحميله</string>
+    <string name="theme">الوضع الليلي</string>
+
+    <string name="text_ratingDialog1">هل اعجبك تطبيق الأخبار العاجلة؟</string>
+    <string name="text_ratingDialog2">المرجوا منك تقييمنا!</string>
+    <string name="later">لاحقا</string>
+    <string name="never">ابدا</string>
+    <string name="done_ok">حسنا</string>
+    <string name="title_ratingDialog">قيمنا</string>
+    <string name="newsApp2">تطبيق عناوين الصحف الكبرى</string>
+</resources>

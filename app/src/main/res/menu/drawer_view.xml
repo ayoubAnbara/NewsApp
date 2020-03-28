@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/switch_theme"
+            android:icon="@drawable/ic_brightness_3_black_24dp"
+            android:title="@string/theme"
+            android:enabled="false"
+            app:actionLayout="@layout/layout_switch"
+            />
+
+        <item
+            android:id="@+id/nav_doMarket"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/rate_us" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/share" />
+        <item
+            android:id="@+id/news_app2"
+            android:icon="@drawable/icon_app_news2"
+            android:title="@string/newsApp2" />
+
+        <item
+            android:id="@+id/nav_privaty_policy"
+            android:icon="@drawable/ic_lock_black_24dp"
+            android:title="@string/privacy_policy" />
+
+
+
+
+
+
+
+</menu>

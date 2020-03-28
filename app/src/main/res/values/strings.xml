@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fast News</string>
+    <string name="ADMOB_APP_ID" translatable="false">ca-app-pub-9059580756298090~3203368711</string>
+    <string name="banner_id" translatable="false">ca-app-pub-9059580756298090/1507143662</string>
+    <string name="intertial_id" translatable="false">ca-app-pub-9059580756298090/8893968655</string>
+    <string name="share">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="share_app">share via</string>
+    <string name="great_application">Great application I advise you to download it</string>
+    <string name="theme">Dark Theme</string>
+    <string name="url_pravicy" translatable="false">https://sites.google.com/view/newspeper/home</string>
+
+    <string name="title_ratingDialog">Rate Us</string>
+    <string name="text_ratingDialog1">Do you love Fast News?</string>
+    <string name="text_ratingDialog2">Please rate us!</string>
+    <string name="later">Later</string>
+    <string name="never">Never</string>
+    <string name="done_ok">Done</string>
+    <string name="newsApp2">Top Headlines App Pro</string>
+</resources>
