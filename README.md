@@ -6,3 +6,6 @@ Choose, read and easily compare the most famous newspapers with your mobile free
 Fast News will bring you directly to the news without wasting any time messing around with the user interface or news loading. It is the best app for the news daily reader.
 
 Fast News application has a property Dark Theme.
+
+Demo:
+https://play.google.com/store/apps/details?id=com.anbara.ayoub.news
