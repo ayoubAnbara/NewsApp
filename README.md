@@ -1,11 +1,13 @@
-# NewsApp
+# News Application Android
 Fast News is app submit the latest news headlines of the most important from international and local newspapers.<br>
 It provides you with the latest news with speed & accuracy right from the heart of events. The daily content offers a wide variety of breaking news & featured stories across politics, sport, business, science, health, technology & life style.<br>
 Choose, read and easily compare the most famous newspapers with your mobile free of charge and in the fastest way possible.<br>
 It has a property Dark Theme.<br>
-##Demo:
+I'm used api news from https://newsapi.org/ 
+### Demo:
 https://play.google.com/store/apps/details?id=com.anbara.ayoub.news
-##screenshot:
+## Screenshot:
+
 ![Screenshot_1550608663](https://user-images.githubusercontent.com/40923656/79056909-403b9d80-7c53-11ea-926e-96ceae39ae5a.png)
 
 ![Screenshot_1550608750](https://user-images.githubusercontent.com/40923656/79056955-a9231580-7c53-11ea-8512-4b947fd427c9.png)
