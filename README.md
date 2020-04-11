@@ -1,8 +1,7 @@
 # NewsApp
 Fast News is app submit the latest news headlines of the most important from international and local newspapers.<br>
-It provides comprehensive coverage of the regional and international news headlines.<br>
 It provides you with the latest news with speed & accuracy right from the heart of events. The daily content offers a wide variety of breaking news & featured stories across politics, sport, business, science, health, technology & life style.<br>
-Choose, read and easily compare the most famous newspapers with your mobile free of charge and in the fastest way possible. All the headlines of major newspapers in the palm of your hand..<br>
+Choose, read and easily compare the most famous newspapers with your mobile free of charge and in the fastest way possible.<br>
 It has a property Dark Theme.<br>
 ##Demo:
 https://play.google.com/store/apps/details?id=com.anbara.ayoub.news
