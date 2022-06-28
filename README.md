@@ -5,6 +5,7 @@ Choose, read and easily compare the most famous newspapers with your mobile free
 It has a property Dark Theme.<br>
 I'm used api news from https://newsapi.org/ 
 ### Demo:
+Look apk: NewsApp/apk/app-debug.apk 
 https://play.google.com/store/apps/details?id=com.anbara.ayoub.news
 ## Screenshot:
 
